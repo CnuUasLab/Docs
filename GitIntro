@@ -5,7 +5,7 @@ How to use Git:
     Set it up:
         git config --global user.name 'Name here'
             //sets the default name for git to use when you commit
-        git config -global user.email 'your_email@example.com'
+        git config --global user.email 'your_email@example.com'
             //sets the default email for git to use when you commit
         git config --global credential.helper cache
             //set git to use the cretential memory cache(remember your username and password
