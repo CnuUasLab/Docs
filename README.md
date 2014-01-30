@@ -1,7 +1,7 @@
 Docs
 ====
 
-This is the official GitHub organization for the Christopher Newport Unmanned Aerial Systems Lab
+This is the official GitHub organization for the Christopher Newport Unmanned Aerial Systems Lab.
 
 This is the repo of all the documents related to the lab's research.
 
