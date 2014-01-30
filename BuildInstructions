@@ -1,0 +1,5 @@
+Read the README.md!  I'm trying to put the build instructions for each repo in there.  Some of the repos are just a place for us to store configs, and as such, don't really have build instructions, but I'm trying to keep a list of all the files, and their respective locations in the README.md.  It'll probobly just be a simple list of commands with either 'cp' or symlink commands for you to run, but either way, I need to keep it updated.
+
+If you find a README that's out of date, or isn't clear email me, and I'll update it.
+
+Jacob.tarren.12@cnu.edu
