@@ -1,0 +1,32 @@
+What is Git:
+    Git is a version control system.  If you can't understand that, just think of it as a way for us to share our code/configs accross multiple systems, with diffrent people contributing.  It provides version history with something called 'commits' so we can keep track of who edits what, and when, and revert the changes if we have to.
+
+How to use Git:
+    Set it up:
+        git config --global user.name 'Name here'
+            //sets the default name for git to use when you commit
+        git config -global user.email 'your_email@example.com'
+            //sets the default email for git to use when you commit
+        git config --global credential.helper cache
+            //set git to use the cretential memory cache(remember your username and password
+            git config --global credential.helper 'cache --timeout=3600'
+                //Set git to remember your username and password for one hour (seting is in seconds)
+
+            Make a github.com account
+                email the acconut name to me at uav-lab@lists.cnulug.org
+
+            Basic things about git:
+                Read through these git tutorials:
+                    https://help.github.com/articles/create-a-repo - creat/pull/push a repo
+                    https://help.github.com/articles/fork-a-repo - fork another repo, and contribute to it
+            
+            For the love of god, read through some previous commits, and learn our orginizational structure.  If you're confused at all about how we're laying things out, please, ask one of us.  If we can't keep things organized, I'll have to resort to makeing everyone fork repos, and issue pull requests when they want to 'push' an update.  It's a good idea to make your own developmant branch under your name, that way you don't fuck with everyone else's stuff.
+
+            DON'T EVER MERGE TO MASTER!  Tell me to do it.
+
+                You should now have a basic understanding of git, and how to use it.  If you have any questions, make a post on our mailing list, and I'll try to help you out.  I'm still pretty new to git aswell, so anything I can't answer,I'll google and help you figure out.  Worst case is we go ask on #git.
+
+                Extra Credit:
+                    http://gitimmersion.com/lab_01.html
+                    http://pypix.com/tools-and-tips/pro-git-workflow/
+                    http://www.alexefish.com/post/52e5652520a0460016000002
